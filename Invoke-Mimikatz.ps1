@@ -1,4 +1,3 @@
-# Vex
 function Invoke-Mimikatz
 {
 <#
